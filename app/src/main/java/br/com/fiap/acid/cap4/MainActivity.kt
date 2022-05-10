@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val TAG = "Main"
-        private const val EXTRA_USER_ID = "user_id"
-        private const val EXTRA_MESSAGE = "message"
+        private const val EXTRA_USER_ID = "id_user"
+        private const val EXTRA_MESSAGE = "mensagem"
     }
 }
